@@ -1,2 +1,2 @@
 # hondt
-Simple one-page implementation of the D'Hondt method
+Simple console implementation of the D'Hondt method. One page of code.
